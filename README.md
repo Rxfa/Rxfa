@@ -20,13 +20,9 @@ Those who know me would describe me as a curious, driven, and genuine individual
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ## 📊 My GitHub Data
 
-<div align="center">
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rxfa&theme=algolia" alt="rxfa" /></p>
-  <p align="center">
-    <img alt="rxfa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rxfa&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rxfa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="rxfa" height="192px"/>
+<div>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=rxfa&theme=dark" alt="rxfa" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rxfa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="rxfa" height="192px"/>
   <br/>
   <b>Note:</b> Top languages are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
 </div>
