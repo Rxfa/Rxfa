@@ -3,7 +3,7 @@
 ## 👨🏿‍💻About me
 I'm a Computer Science and Engineering student at the Instituto Superior de Engenharia de Lisboa.
 
-I have a burning passion for technology, web development, and cybersecurity and plan to have a very fulfilling career combining all three.
+I have a burning passion for web development and cybersecurity and plan to have an accomplished career combining those two.
 
 Those who know me would describe me as a curious, driven, and genuine individual.
 
@@ -13,9 +13,6 @@ Those who know me would describe me as a curious, driven, and genuine individual
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ## 📊 My GitHub Data
 
 <div>
